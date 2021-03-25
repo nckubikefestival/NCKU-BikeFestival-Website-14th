@@ -1,6 +1,7 @@
 # ncku-bikefestival-website
 
 > A Vue.js project of 14th NCKU BikeFestival website.
+> Contributor : [Chialiang86](https://github.com/Chialiang86)
 
 ## Build Setup
 
@@ -19,4 +20,4 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-# NCKU-BikeFestival-Website-13th
+# NCKU-BikeFestival-Website-14th
